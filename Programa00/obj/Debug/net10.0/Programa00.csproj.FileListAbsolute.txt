@@ -1,0 +1,15 @@
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\bin\Debug\net10.0\Programa00.exe
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\bin\Debug\net10.0\Programa00.deps.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\bin\Debug\net10.0\Programa00.runtimeconfig.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\bin\Debug\net10.0\Programa00.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\bin\Debug\net10.0\Programa00.pdb
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.AssemblyInfoInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.AssemblyInfo.cs
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.csproj.CoreCompileInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.sourcelink.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\refint\Programa00.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.pdb
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\Programa00.genruntimeconfig.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa00\obj\Debug\net10.0\ref\Programa00.dll

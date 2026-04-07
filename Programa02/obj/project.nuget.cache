@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "loTQ1nURz60=",
+  "success": true,
+  "projectFilePath": "E:\\Tecnicatura de programacion\\ProgramacionIII-Practica\\ProgramacionIII-Practica\\Programa02\\Programa02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exequ\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\exequ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\exequ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\exequ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
