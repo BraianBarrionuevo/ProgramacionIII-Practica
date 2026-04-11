@@ -24,5 +24,53 @@ class Program02
             Console.WriteLine("\nPresiona ENTER para cerrar.");
             Console.ReadLine();
 
+            //Ejercicio 2
+             Console.WriteLine("--- BLOQUE 1: PRODUCTOS ---");
+
+        int cantidadProductos = 15;
+
+        Console.WriteLine("1. TIPO ENTERO (int):");
+        Console.WriteLine("   Para cantidades sin decimales, como stock o unidades.");
+        Console.WriteLine("   Valor guardado: " + cantidadProductos);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+        
+            //Ejercicio 3
+
+            Console.WriteLine("--- BLOQUE 1: ALUMNOS ---");
+
+        int alumnos = 30;
+
+        Console.WriteLine("1. TIPO ENTERO (int):");
+        Console.WriteLine("   Para contar personas sin decimales.");
+        Console.WriteLine("   Valor guardado: " + alumnos);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+        //Ejercicio 4
+
+        Console.WriteLine("--- BLOQUE 1: KILÓMETROS ---");
+
+        int kilometros = 120;
+
+        Console.WriteLine("1. TIPO ENTERO (int):");
+        Console.WriteLine("   Para medir distancias sin decimales.");
+        Console.WriteLine("   Valor guardado: " + kilometros);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+
+        //Ejercicio 5
+        Console.WriteLine("--- BLOQUE 1: PUNTAJE ---");
+
+        int puntos = 850;
+
+        Console.WriteLine("1. TIPO ENTERO (int):");
+        Console.WriteLine("   Para representar puntajes sin decimales.");
+        Console.WriteLine("   Valor guardado: " + puntos);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
     }
 }

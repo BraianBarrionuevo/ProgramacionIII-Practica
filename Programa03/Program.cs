@@ -4,79 +4,88 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== TRABAJANDO CON DECIMALES EN C# ===\n");
+       //Ejercicio 1 ---------------------------------------
+       Console.WriteLine("--- BLOQUE 2: COMPRAS ---");
 
-        // 🔹 1. DOUBLE (uso general)
-        double estatura = 1.75;
-        double peso = 70.5;
+        double pesoProducto = 2.5;
+        Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
+        Console.WriteLine("   Valor guardado: " + pesoProducto + " kg");
 
-        Console.WriteLine("1) DOUBLE (uso general)");
-        Console.WriteLine($"   Estatura: {estatura} metros");
-        Console.WriteLine($"   Peso: {peso} kg");
+        decimal precioTotal = 1500.75m;
+        Console.WriteLine("\n3. TIPO DECIMAL FINANCIERO (decimal):");
+        Console.WriteLine("   ¡Obligatorio para dinero! Usa la 'm'.");
+        Console.WriteLine("   Valor guardado: $" + precioTotal);
 
-        // Operaciones
-        double imc = peso / (estatura * estatura);
-        Console.WriteLine($"   IMC calculado: {imc}");
-
-        Console.WriteLine("\n----------------------------------\n");
-
-        // 🔹 2. PROBLEMA DE PRECISIÓN
-        Console.WriteLine("2) Problema de precisión con double:");
-
-        double num1 = 0.1;
-        double num2 = 0.2;
-        double resultado = num1 + num2;
-
-        Console.WriteLine($"   0.1 + 0.2 = {resultado}"); // 😱 puede dar 0.30000000000000004
-
-        Console.WriteLine("\n----------------------------------\n");
-
-        // 🔹 3. DECIMAL (financiero)
-        Console.WriteLine("3) DECIMAL (ideal para dinero)");
-
-        decimal precio = 199.99m;
-        decimal descuento = 20.50m;
-
-        Console.WriteLine($"   Precio original: ${precio}");
-        Console.WriteLine($"   Descuento: ${descuento}");
-
-        decimal precioFinal = precio - descuento;
-        Console.WriteLine($"   Precio final: ${precioFinal}");
-
-        Console.WriteLine("\n----------------------------------\n");
-
-        // 🔹 4. PRECISIÓN CORRECTA CON DECIMAL
-        Console.WriteLine("4) Precisión correcta con decimal:");
-
-        decimal d1 = 0.1m;
-        decimal d2 = 0.2m;
-        decimal sumaDecimal = d1 + d2;
-
-        Console.WriteLine($"   0.1 + 0.2 = {sumaDecimal}"); 
-
-        Console.WriteLine("\n----------------------------------\n");
-
-        // 🔹 5. CONVERSIÓN ENTRE TIPOS
-        Console.WriteLine("5) Conversión de tipos:");
-
-        double numeroDouble = 10.5;
-        decimal numeroDecimal = (decimal)numeroDouble;
-
-        Console.WriteLine($"   Double: {numeroDouble}");
-        Console.WriteLine($"   Convertido a decimal: {numeroDecimal}");
-
-        Console.WriteLine("\n----------------------------------\n");
-
-        // 🔹 6. REDONDEO
-        Console.WriteLine("6) Redondeo:");
-
-        decimal monto = 123.45678m;
-        decimal redondeado = Math.Round(monto, 2);
-
-        Console.WriteLine($"   Original: {monto}");
-        Console.WriteLine($"   Redondeado a 2 decimales: {redondeado}");
-
-        Console.WriteLine("\nPresiona ENTER para salir...");
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
         Console.ReadLine();
+
+
+
+        //Ejercicio 2 --------------------------------------
+        Console.WriteLine("--- BLOQUE 2: FITNESS ---");
+
+        double pesoCorporal = 72.8;
+        Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
+        Console.WriteLine("   Valor guardado: " + pesoCorporal + " kg");
+
+        decimal cuotaGimnasio = 8500.50m;
+        Console.WriteLine("\n3. TIPO DECIMAL FINANCIERO (decimal):");
+        Console.WriteLine("   ¡Obligatorio para dinero! Usa la 'm'.");
+        Console.WriteLine("   Valor guardado: $" + cuotaGimnasio);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+
+
+
+        //Ejercicio 3 --------------------------------------
+        Console.WriteLine("--- BLOQUE 2: VEHÍCULO ---");
+
+        double consumo = 12.6;
+        Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
+        Console.WriteLine("   Valor guardado: " + consumo + " km/l");
+
+        decimal precioCombustible = 999.99m;
+        Console.WriteLine("\n3. TIPO DECIMAL FINANCIERO (decimal):");
+        Console.WriteLine("   ¡Obligatorio para dinero! Usa la 'm'.");
+        Console.WriteLine("   Valor guardado: $" + precioCombustible);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+
+
+
+        //Ejercicio 4 ---------------------------------------
+        Console.WriteLine("--- BLOQUE 2: EDUCACIÓN ---");
+
+        double promedio = 8.75;
+        Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
+        Console.WriteLine("   Valor guardado: " + promedio);
+
+        decimal cuotaColegio = 12000.00m;
+        Console.WriteLine("\n3. TIPO DECIMAL FINANCIERO (decimal):");
+        Console.WriteLine("   ¡Obligatorio para dinero! Usa la 'm'.");
+        Console.WriteLine("   Valor guardado: $" + cuotaColegio);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+
+
+
+        //Ejercico 5 ---------------------------------------
+                Console.WriteLine("--- BLOQUE 2: RESTAURANTE ---");
+
+        double pesoPlato = 0.85;
+        Console.WriteLine("2. TIPO DECIMAL COMÚN (double):");
+        Console.WriteLine("   Valor guardado: " + pesoPlato + " kg");
+
+        decimal precioMenu = 3500.99m;
+        Console.WriteLine("\n3. TIPO DECIMAL FINANCIERO (decimal):");
+        Console.WriteLine("   ¡Obligatorio para dinero! Usa la 'm'.");
+        Console.WriteLine("   Valor guardado: $" + precioMenu);
+
+        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.ReadLine();
+
     }
 }

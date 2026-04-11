@@ -1,0 +1,5 @@
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa07\obj\Debug\net10.0\Programa07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa07\obj\Debug\net10.0\Programa07.AssemblyInfoInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa07\obj\Debug\net10.0\Programa07.AssemblyInfo.cs
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa07\obj\Debug\net10.0\Programa07.csproj.CoreCompileInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa07\obj\Debug\net10.0\Programa07.sourcelink.json
