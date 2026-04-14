@@ -1,0 +1,15 @@
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\bin\Debug\net10.0\Programa05.exe
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\bin\Debug\net10.0\Programa05.deps.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\bin\Debug\net10.0\Programa05.runtimeconfig.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\bin\Debug\net10.0\Programa05.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\bin\Debug\net10.0\Programa05.pdb
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.AssemblyInfoInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.AssemblyInfo.cs
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.csproj.CoreCompileInputs.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.sourcelink.json
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\refint\Programa05.dll
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.pdb
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\Programa05.genruntimeconfig.cache
+E:\Tecnicatura de programacion\ProgramacionIII-Practica\ProgramacionIII-Practica\Programa05\obj\Debug\net10.0\ref\Programa05.dll
